@@ -1,0 +1,13 @@
+.home-container{
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    margin-top: 100px;
+   
+}
+.text{
+    margin-right:100px;
+    margin-top: 150px;
+}
+.text span{
+    padding: 20px;
+}
