@@ -1,0 +1,45 @@
+[
+    {
+        "id": "624b1f2dd2b51b14ec946052",
+        "picture": "http://placehold.it/32x32",
+        "name": "Tracy Cherry",
+        "rating": 3.5,
+        "comment": "best price and fast shipping!"
+    },
+    {
+        "id": "624b1f2d4e2bdecc126de894",
+        "picture": "http://placehold.it/32x32",
+        "name": "Scott Dorsey",
+        "rating": 5.00,
+        "comment": "very good quality what I was looking for"
+    },
+    {
+        "id": "624b1f2d6621204c838be624",
+        "picture": "http://placehold.it/32x32",
+        "name": "Dickerson Langley",
+        "rating": 3.5,
+        "comment": "These glasses are perfect, everything I could ask for. Correct, affordable, and on time."
+    },
+    {
+        "id": "624b1f2d60b81a3b05f265a0",
+        "picture": "http://placehold.it/32x32",
+        "name": "Todd Murphy",
+        "rating": 3.5,
+        "comment": "Takes time to deliver but it's understandable as it's an oversea parcel. Good and authentic product!"
+    },
+    {
+        "id": "624b1f2d2a31487ddf96a585",
+        "picture": "http://placehold.it/32x32",
+        "name": "Cunningham Sharp",
+        "rating": 3.5,
+        "comment": "I received one of my Glass and the select frame was a bit to small for me, just applied to have this sent back, and this was replaced free of charge to the correct size in a short time. Well Done & Thanks. Highly recommended. "
+    },
+    {
+        "id": "624b1f2d33d968802e9caf36",
+        "picture": "http://placehold.it/32x32",
+        "name": "Jewell Brennan",
+        "rating": 3.5,
+        "comment": "Best price and fast shipping! "
+    }
+    
+]

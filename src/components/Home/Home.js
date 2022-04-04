@@ -11,7 +11,7 @@ const Home = () => {
                     <h1><span className='text-amber-600 text-6xl font-sans font-bold'>Your Best Choice</span></h1>
 
                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Repudiandae quis nisi, officia soluta sunt numquam minima quam cupiditate deleniti saepe!</p>
-                    <button className='border'>Live Demo</button>
+                    <button className='border p-3 bg-orange-400 rounded text-white '>Live Demo</button>
                 </div>
                 
             </div>
