@@ -17,14 +17,14 @@
         "id": "624b1f2d6621204c838be624",
         "picture": "http://placehold.it/32x32",
         "name": "Dickerson Langley",
-        "rating": 3.5,
+        "rating": 4.5,
         "comment": "These glasses are perfect, everything I could ask for. Correct, affordable, and on time."
     },
     {
         "id": "624b1f2d60b81a3b05f265a0",
         "picture": "http://placehold.it/32x32",
         "name": "Todd Murphy",
-        "rating": 3.5,
+        "rating": 4.0,
         "comment": "Takes time to deliver but it's understandable as it's an oversea parcel. Good and authentic product!"
     },
     {
@@ -38,7 +38,7 @@
         "id": "624b1f2d33d968802e9caf36",
         "picture": "http://placehold.it/32x32",
         "name": "Jewell Brennan",
-        "rating": 3.5,
+        "rating": 5.0,
         "comment": "Best price and fast shipping! "
     }
     

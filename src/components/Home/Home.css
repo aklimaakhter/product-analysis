@@ -2,6 +2,7 @@
     display: grid;
     grid-template-columns: 2fr 1fr;
     margin-top: 100px;
+    margin-bottom: 100px;
    
 }
 .product-containeer{
@@ -18,4 +19,8 @@
     padding-top: 20px;
     padding-bottom: 20px;
     
+}
+button{
+    text-align: center;
+    width: 20%;
 }
