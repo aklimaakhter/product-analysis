@@ -1,6 +1,5 @@
 import React from 'react';
 import './Home.css';
-import Reviews from '../Reviews/Reviews'
 import { Link } from 'react-router-dom';
 import useReviews from '../../hooks/useReviews';
 import Review from '../Review/Review';
@@ -8,6 +7,7 @@ import Review from '../Review/Review';
 
 const Home = () => {
     const [reviews, setReviews] = useReviews();
+    
     return (
         <div>
             <div className='home-container'>
@@ -16,7 +16,7 @@ const Home = () => {
                         <h1 className='600 text-6xl font-sans font-bold'>Your New Choice</h1>
                         <h1><span className='text-blue-600 text-6xl font-sans font-bold'>Your Best Choice</span></h1>
 
-                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Repudiandae quis nisi, officia soluta sunt numquam minima quam cupiditate deleniti saepe!</p>
+                        <p className='text-xl'>Sunglasses are great for any occasion. I think it is perfect combination of fashion world.</p>
                         <button className='border p-3 bg-gray-300 rounded text-black '>Live Demo</button>
                     </div>
 
@@ -32,12 +32,12 @@ const Home = () => {
                 {
                     reviews.slice(0, 3).map(review => <Review
                         key={review.id}
-
                         review={review}
+                        
                     ></Review>)
                 }
             </div>
-            <Link to='/coins'
+            <Link to='/reviews'
                 className='py-2 px-3 text-white mt-3 rounded bg-red-400'>
                 See All Reviews
             </Link>
