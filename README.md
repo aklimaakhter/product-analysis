@@ -1,10 +1,12 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Product Review Analysis Website](https://github.com/facebook/create-react-app).
 
-## Available Scripts
-
-In the project directory, you can run:
+**Bullet Point**
+1.Customer review
+2.Dashboard
+3.Updated Blog
+4.Responsive wesite
 
 ### `npm start`
 

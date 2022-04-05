@@ -17,7 +17,7 @@ const Home = () => {
                         <h1><span className='text-blue-600 text-5xl font-sans font-bold py-4'>Your Best Choice</span></h1>
 
                         <p className='text-xl py-4'>Our Hair dryer & straightener benefit from a clever modern design & compact design for easy handling. They are light and easy to handle yet small enough to store virtually anywhere.</p>
-                        <button className='border p-3 bg-gray-300 rounded text-black '>Live Demo</button>
+                        <button className='border p-3  bg-gray-300 rounded text-black '>Live Demo</button>
                     </div>
 
                 
