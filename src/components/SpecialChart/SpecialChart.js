@@ -44,7 +44,7 @@ const SpecialChart = () => {
     return (
         <BarChart
             width={500}
-            height={300}
+            height={350}
             data={data}
             margin={{
                 top: 5,
