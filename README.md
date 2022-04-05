@@ -6,7 +6,7 @@ This project was bootstrapped with [Product Review Analysis Website](https://git
 1.Customer review
 2.Dashboard
 3.Updated Blog
-4.Responsive wesite
+4.Responsive website
 
 ### `npm start`
 
